@@ -28,9 +28,20 @@ All contact information is stored **persistently** using file handling (`contact
 ---
 ## 📸 Screenshots
 ----
-- ![images alt] (https://github.com/PrakashMoharana104/Contact-Book/blob/530af1dfe0fe76036b3c9c61401f439522ff5e72/Screenshots/CONTACTBOOK-Mainmenu.png)
-- ![images alt] (https://github.com/PrakashMoharana104/Contact-Book/blob/530af1dfe0fe76036b3c9c61401f439522ff5e72/Screenshots/CONTACTBOOK-ContactList.png)
-- ![images alt] (https://github.com/PrakashMoharana104/Contact-Book/blob/530af1dfe0fe76036b3c9c61401f439522ff5e72/Screenshots/CONTACTBOOK-AddContact.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrakashMoharana104/Contact-Book/530af1dfe0fe76036b3c9c61401f439522ff5e72/Screenshots/CONTACTBOOK-AddContact.png" width="400" />
+  </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrakashMoharana104/Contact-Book/530af1dfe0fe76036b3c9c61401f439522ff5e72/Screenshots/CONTACTBOOK-ContactList.png" width="400" />
+
+  </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrakashMoharana104/Contact-Book/530af1dfe0fe76036b3c9c61401f439522ff5e72/Screenshots/CONTACTBOOK-Mainmenu.png" width="400" />
+</p>
+
+
 
 ## 🛠️ How to Run
 
