@@ -1,3 +1,9 @@
+# About Me 
+
+I am Prakash Maharana, a first-year B.Tech student in Computer Science and
+      Engineering, currently pursuing my degree in Odisha. I have a strong
+      interest in technology and aim to develop expertise in domains such as
+      cloud computing and DevOps.
 # 📒 Contact Book in C
 
 A simple **Contact Book Application** built using **C language**.  
@@ -90,10 +96,16 @@ Contact added successfully!
 📧 *Developed as a mini project using pure C language.*
 
 ---
+## 📧 Contact
+
+- **Personal Mail:** - legendviper104@gmail.com
+- **Business Mail** - maharanaprakash104@gmail.com
+- **College Mail** - 250301120351@centurionuniv.edu.in
+
 
 ## 🧾 License
 
-This project is open-source .
+This project is comppletely open-source .
 
 ---
 
