@@ -13,7 +13,6 @@ typedef struct {
 Contact contacts[MAX];
 int count = 0;
 
-// Load contacts from file
 void loadContacts() {
     FILE *file = fopen(FILE_NAME, "rb");
     if (file != NULL) {
@@ -23,7 +22,6 @@ void loadContacts() {
     }
 }
 
-// Save contacts to file
 void saveContacts() {
     FILE *file = fopen(FILE_NAME, "wb");
     if (file == NULL) {
@@ -35,7 +33,6 @@ void saveContacts() {
     fclose(file);
 }
 
-// Add new contact
 void addContact() {
     if (count >= MAX) {
         printf("Contact book is full!\n");
@@ -54,7 +51,6 @@ void addContact() {
     printf("Contact added successfully!\n");
 }
 
-// Display all contacts
 void displayContacts() {
     if (count == 0) {
         printf("No contacts found.\n");
@@ -66,7 +62,6 @@ void displayContacts() {
     }
 }
 
-// Search contact by name
 void searchContact() {
     char name[100];
     printf("Enter name to search: ");
@@ -86,7 +81,6 @@ void searchContact() {
     }
 }
 
-// Edit a contact by name
 void editContact() {
     char name[100];
     printf("Enter name of contact to edit: ");
@@ -116,7 +110,6 @@ void editContact() {
     }
 }
 
-// Delete a contact by name
 void deleteContact() {
     char name[100];
     printf("Enter name of contact to delete: ");
@@ -172,3 +165,4 @@ int main() {
 
     return 0;
 }
+
